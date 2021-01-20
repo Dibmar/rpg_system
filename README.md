@@ -20,3 +20,12 @@ WIP
     + Main structure created
     + character_creation.py created
         * PC class in development
+
+20/01/21
+    + being.py created
+        * It contains the Being class. It should be able to generate both random and point-based statistics for both NPC's (major and minor) and PCs
+        * It constitutes the parent class of every living and interactable character in the system.
+        * Works using the numpy library
+        * Should be able to export the character sheet in json format.
+
+    - character_creation.py dropped
